@@ -3,7 +3,7 @@
 # Copyright: 2021 Yiqing Li (anne.yiqing.li@outlook.com)
 # CC-BY-SA
 
-Explorative gradient method for multiple parameter non-convex optimization.
+Explorative gradient method for non-convex optimization of multiple parameters.
 Instructions to use the EGM optimizer.
 
 ## Publication
@@ -132,7 +132,7 @@ Yiqing Li
 
 ## License
 
-EGM (Explorative Gradient Method) for multiple parameter optimization. Copyright (c) 2019,Yiqing Li (anne.yiqing.li@outlook.com)
+EGM (Explorative Gradient Method) for non-convex optimization of multiple parameters. Copyright (c) 2019,Yiqing Li (anne.yiqing.li@outlook.com)
 
 ```
 This program is free software: you can redistribute it and/or modify
