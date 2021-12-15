@@ -1,10 +1,14 @@
-# xEGM
-# Yiqing Li, 10/20/2020
-# Copyright: 2020 Yiqing Li (anne.yiqing.li@outlook.com)
+# EGM
+# Yiqing Li, 10/20/2021
+# Copyright: 2021 Yiqing Li (anne.yiqing.li@outlook.com)
 # CC-BY-SA
 
-Explorative gradient method for high-dimenional non-convex optimization.
-Instructions to use the xEGM optimizer.
+Explorative gradient method for multiple parameter non-convex optimization.
+Instructions to use the EGM optimizer.
+
+## Publication
+
+Li, Y., Cui, W., Jia, Q., Li, Q., Yang, Z., Morzyński, M., & Noack, B. R. (2021).Explorative gradient method for active drag reduction of the fluidic pinball and slanted Ahmed body. Journal of Fluid Mechanics, 932, A7. DOI: https://doi.org/10.1017/jfm.2021.974
 
 ## Getting Started
 
@@ -126,9 +130,28 @@ Version 0.1.4.1
 
 Yiqing Li
 
+## License
+
+EGM (Explorative Gradient Method) for multiple parameter optimization. Copyright (c) 2019,Yiqing Li (anne.yiqing.li@outlook.com)
+
+```
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+```
+
 ## Acknowledgments
 
-* The author thanks Guy Y. Cornejo Maceda for help on code. 
-* The author also thanks Bernd R. Noack and Zhigang Yang for guidance.
+* The author thanks Guy Y. Cornejo Maceda (https://www.cornejomaceda.com/) for help on the code organization. 
+* The author also thanks Bernd R. Noack (http://berndnoack.com/) and Zhigang Yang for their precious guidance.
 
 
